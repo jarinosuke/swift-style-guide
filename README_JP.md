@@ -156,7 +156,7 @@ _理由:_ 型指定子は、_識別子_に対してなんらかの意味づけ�
 同じように、ディクショナリの型定義をするときも、常にキーの型のすぐ後にコロンをおいて、空白の後に値の型を指定します。
 
 ```swift
-let capitals: [Country: City] = [ Sweden: Stockholm ]
+let capitals: [Country: City] = [sweden: stockholm]
 ```
 
 #### 明示的な`self`参照は必要な時だけ
